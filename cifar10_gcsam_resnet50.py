@@ -104,7 +104,7 @@ def centralized_gradient(x,use_gc=True,gc_conv_only=False):
     return x
 
 
-"""**SAM Optimizer**"""
+"""**GCSAM Optimizer**"""
 
 import torch
 #from torch.optim.optimizer import Optimizer, required
