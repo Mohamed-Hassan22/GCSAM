@@ -16,5 +16,5 @@ year = {2025}
 ```
 
 ## References
-[1] [Foret et al. 2021](https://arxiv.org/abs/2010.01412) 
-[2] [Yong et al. 2020](https://arxiv.org/abs/2004.01461)
+[1] [Foret et al. 2021](https://arxiv.org/abs/2010.01412)  
+[2] [Yong et al. 2020](https://arxiv.org/abs/2004.01461)  
